@@ -3,11 +3,8 @@
 </p>
 
 <h1 align="center">🌟 SigDevs 🌟</h1>
-
-<p align="center">
-  <i>Where Technology Meets Innovation!</i> 🚀
-</p>
-
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Where+Technology+Meets+Innovation;We+Code;We+Innovate;We+Deliver;One+line+of+code+at+a+time" alt="Typing SVG" /></a>
+  
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="status badge">
   <img src="https://img.shields.io/badge/Technologies-Cutting%20Edge-blue?style=for-the-badge" alt="technologies badge">
@@ -44,10 +41,6 @@ Check out some of our standout projects:
 - **Project Name 3** – A unique approach to solving a complex challenge.
 
 ---
-
-## 👥 Meet Our Team
-
-Our team at **SigDevs** is composed of seasoned professionals passionate about delivering excellence. From developers to designers, our collective expertise allows us to tackle projects of any scale and complexity. Our team’s dedication ensures that our clients are supported every step of the way.
 
 ## 👥 Meet Our Team
 
