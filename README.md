@@ -51,7 +51,7 @@ Our team at **SigDevs** is composed of seasoned professionals passionate about d
 
 <p align="center">
   <a href="https://github.com/username1">
-    <img src="https://github.com/username1.png" width="100" height="100" alt="Team Member 1" style="border-radius: 50%;">
+    <img src="https://github.com/Obaidsajjad.png" width="100" height="100" alt="Team Member 1" style="border-radius: 50%;">
   </a>
   <a href="https://github.com/username2">
     <img src="https://github.com/username2.png" width="100" height="100" alt="Team Member 2" style="border-radius: 50%;">
