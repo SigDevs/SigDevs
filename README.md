@@ -53,8 +53,8 @@ Our team at **SigDevs** is composed of seasoned professionals passionate about d
   <a href="https://github.com/PERPLEX">
     <img src="https://github.com/PERPLEX.png" width="100" height="100" alt="Team Member 2" style="border-radius: 50%; border: 2px solid #ddd; margin: 20px;">
   </a>
-  <a href="https://github.com/username3">
-    <img src="https://github.com/username3.png" width="100" height="100" alt="Team Member 3" style="border-radius: 50%; border: 2px solid #ddd; margin: 20px;">
+  <a href="https://github.com/DanyalSarwar325">
+    <img src="https://github.com/DanyalSarwar325.png" width="100" height="100" alt="Team Member 3" style="border-radius: 50%; border: 2px solid #ddd; margin: 20px;">
   </a>
   <a href="https://github.com/username4">
     <img src="https://github.com/username4.png" width="100" height="100" alt="Team Member 4" style="border-radius: 50%; border: 2px solid #ddd; margin: 20px;">
