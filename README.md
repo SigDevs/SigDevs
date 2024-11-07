@@ -50,11 +50,11 @@ Check out some of our standout projects:
 Our team at **SigDevs** is composed of seasoned professionals passionate about delivering excellence. From developers to designers, our collective expertise allows us to tackle projects of any scale and complexity. Our team’s dedication ensures that our clients are supported every step of the way.
 
 <p align="center">
-  <a href="https://github.com/username1">
+  <a href="https://github.com/Obaidsajjjad">
     <img src="https://github.com/Obaidsajjad.png" width="100" height="100" alt="Team Member 1" style="border-radius: 50%;">
   </a>
-  <a href="https://github.com/username2">
-    <img src="https://github.com/username2.png" width="100" height="100" alt="Team Member 2" style="border-radius: 50%;">
+  <a href="https://github.com/PERPLEX">
+    <img src="https://github.com/PERPLEX.png" width="100" height="100" alt="Team Member 2" style="border-radius: 50%;">
   </a>
   <a href="https://github.com/username3">
     <img src="https://github.com/username3.png" width="100" height="100" alt="Team Member 3" style="border-radius: 50%;">
