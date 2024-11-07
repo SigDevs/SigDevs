@@ -49,29 +49,30 @@ Check out some of our standout projects:
 
 Our team at **SigDevs** is composed of seasoned professionals passionate about delivering excellence. From developers to designers, our collective expertise allows us to tackle projects of any scale and complexity. Our team’s dedication ensures that our clients are supported every step of the way.
 
+## 👥 Meet Our Team
+
+Our team at **SigDevs** is composed of seasoned professionals passionate about delivering excellence. From developers to designers, our collective expertise allows us to tackle projects of any scale and complexity. Our team’s dedication ensures that our clients are supported every step of the way.
+
 <p align="center">
-  <a href="https://github.com/Obaidsajjjad">
-    <img src="https://github.com/Obaidsajjad.png" width="100" height="100" alt="Team Member 1" style="border-radius: 50%;">
+  <a href="https://github.com/Obaidsajjad">
+    <img src="https://github.com/Obaidsajjad.png" width="100" height="100" alt="Obaid Sajjad" style="border-radius: 50; border: 2px solid #ddd; margin: 20px;">
   </a>
   <a href="https://github.com/PERPLEX">
-    <img src="https://github.com/PERPLEX.png" width="100" height="100" alt="Team Member 2" style="border-radius: 50%;">
+    <img src="https://github.com/PERPLEX.png" width="100" height="100" alt="Team Member 2" style="border-radius: 50%; border: 2px solid #ddd; margin: 20px;">
   </a>
   <a href="https://github.com/username3">
-    <img src="https://github.com/username3.png" width="100" height="100" alt="Team Member 3" style="border-radius: 50%;">
+    <img src="https://github.com/username3.png" width="100" height="100" alt="Team Member 3" style="border-radius: 50%; border: 2px solid #ddd; margin: 20px;">
   </a>
   <a href="https://github.com/username4">
-    <img src="https://github.com/username4.png" width="100" height="100" alt="Team Member 4" style="border-radius: 50%;">
+    <img src="https://github.com/username4.png" width="100" height="100" alt="Team Member 4" style="border-radius: 50%; border: 2px solid #ddd; margin: 20px;">
   </a>
   <a href="https://github.com/username5">
-    <img src="https://github.com/username5.png" width="100" height="100" alt="Team Member 5" style="border-radius: 50%;">
+    <img src="https://github.com/username5.png" width="100" height="100" alt="Team Member 5" style="border-radius: 50%; border: 2px solid #ddd; margin: 20px;">
   </a>
   <a href="https://github.com/username6">
-    <img src="https://github.com/username6.png" width="100" height="100" alt="Team Member 6" style="border-radius: 50%;">
+    <img src="https://github.com/username6.png" width="100" height="100" alt="Team Member 6" style="border-radius: 50%; border: 2px solid #ddd; margin: 20px;">
   </a>
 </p>
-
----
-
 
 
 ---
@@ -83,7 +84,7 @@ Are you ready to transform your business with the power of technology? Get in to
 <p align="center">
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-SigDevs.com-blue?style=for-the-badge&logo=google-chrome" alt="website badge"></a>
   <a href="https://www.linkedin.com/company/sigdevs"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn badge"></a>
-  <a href="mailto:contact@sigdevs.com"><img src="https://img.shields.io/badge/Email-contact@sigdevs.com-blue?style=for-the-badge&logo=gmail" alt="email badge"></a>
+  <a href="mailto:sigdevs6@gmail.com"><img src="https://img.shields.io/badge/Email-contact@sigdevs.com-blue?style=for-the-badge&logo=gmail" alt="email badge"></a>
 </p>
 
 ---
